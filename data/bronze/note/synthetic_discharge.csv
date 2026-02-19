@@ -1,0 +1,262 @@
+subject_id,hadm_id,charttime,text
+10000032,29079034,2180-07-23 14:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10000032,29079034,2180-07-23 15:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10000032,29079034,2180-07-23 18:00:00,Patient denies pain. Tolerating oral diet well.
+10001217,24597018,2157-11-20 20:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10001217,24597018,2157-11-20 21:00:00,Patient is alert and oriented x3. No acute distress noted.
+10001217,27703517,2157-12-19 15:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10001725,25563031,2110-04-12 01:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10001725,25563031,2110-04-12 03:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10001725,25563031,2110-04-12 18:00:00,Patient denies pain. Tolerating oral diet well.
+10002428,20321825,2156-05-01 08:00:00,Patient is alert and oriented x3. No acute distress noted.
+10002428,23473524,2156-05-16 01:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10002428,28662225,2156-04-19 06:00:00,Patient denies pain. Tolerating oral diet well.
+10002428,28662225,2156-04-19 21:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10002495,24982426,2141-05-23 02:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10002495,24982426,2141-05-26 22:00:00,Patient is alert and oriented x3. No acute distress noted.
+10002930,25696644,2196-04-15 02:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10002930,25696644,2196-04-15 05:00:00,Patient is alert and oriented x3. No acute distress noted.
+10002930,25696644,2196-04-15 07:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10002930,25922998,2198-04-17 22:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10003046,26048429,2154-01-03 22:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10003400,20214994,2137-03-03 02:00:00,Patient denies pain. Tolerating oral diet well.
+10003400,20214994,2137-03-08 20:00:00,Patient is alert and oriented x3. No acute distress noted.
+10003400,23559586,2137-09-01 01:00:00,Patient denies pain. Tolerating oral diet well.
+10004235,24181354,2196-02-26 18:00:00,Patient denies pain. Tolerating oral diet well.
+10004422,21255400,2111-01-18 02:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10004422,21255400,2111-01-21 04:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10004457,23251352,2141-12-17 17:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10004457,23251352,2141-12-17 22:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10004457,23251352,2141-12-18 07:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10004720,22081550,2186-11-14 02:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10004720,22081550,2186-11-14 22:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10004720,22081550,2186-11-16 06:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10004733,27411876,2174-12-09 14:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10005348,25239799,2130-10-27 17:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10005348,25239799,2130-10-28 00:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10005348,25239799,2130-10-29 09:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10005817,20626031,2132-12-16 16:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10005817,20626031,2132-12-17 15:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10005817,20626031,2132-12-17 16:00:00,Patient is alert and oriented x3. No acute distress noted.
+10005817,28661809,2135-01-12 00:00:00,Patient denies pain. Tolerating oral diet well.
+10005866,20364112,2149-10-03 18:00:00,Patient denies pain. Tolerating oral diet well.
+10005909,20199380,2144-11-01 19:00:00,Patient denies pain. Tolerating oral diet well.
+10006053,22942076,2111-11-15 12:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10006053,22942076,2111-11-15 16:00:00,Patient denies pain. Tolerating oral diet well.
+10006580,24159665,2137-08-11 04:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10007058,22954658,2167-11-08 02:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10007058,22954658,2167-11-08 08:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10007058,22954658,2167-11-08 15:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10007795,28477357,2136-04-23 00:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10007818,22987108,2146-06-28 14:00:00,Patient denies pain. Tolerating oral diet well.
+10007818,22987108,2146-06-30 05:00:00,Patient is alert and oriented x3. No acute distress noted.
+10007818,22987108,2146-07-06 07:00:00,Patient denies pain. Tolerating oral diet well.
+10007928,20338077,2129-04-07 18:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10007928,20338077,2129-04-07 21:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10008287,22168393,2145-09-29 20:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10008287,22168393,2145-09-29 20:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10008454,20291550,2110-12-04 22:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10009035,28324362,2161-04-27 11:00:00,Patient denies pain. Tolerating oral diet well.
+10009035,28324362,2161-04-28 02:00:00,Patient is alert and oriented x3. No acute distress noted.
+10009035,28324362,2161-04-28 14:00:00,Patient is alert and oriented x3. No acute distress noted.
+10009049,22995465,2174-05-26 13:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10009628,25926192,2153-09-20 19:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10009628,25926192,2153-09-21 09:00:00,Patient is alert and oriented x3. No acute distress noted.
+10010471,29842315,2155-12-04 14:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10010471,29842315,2155-12-06 11:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10010867,22429197,2147-12-31 12:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10010867,22429197,2148-01-05 23:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10010867,22429197,2148-01-06 13:00:00,Patient denies pain. Tolerating oral diet well.
+10011398,27505812,2146-12-15 14:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10011398,27505812,2146-12-15 20:00:00,Patient is alert and oriented x3. No acute distress noted.
+10011398,27505812,2146-12-16 02:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10012552,27089790,2140-03-27 09:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10012853,27882036,2176-11-29 01:00:00,Patient is alert and oriented x3. No acute distress noted.
+10012853,27882036,2176-11-29 01:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10012853,27882036,2176-11-29 04:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10013049,22675517,2114-06-20 15:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10014078,25809882,2166-08-22 01:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10014078,25809882,2166-08-24 05:00:00,Patient is alert and oriented x3. No acute distress noted.
+10014354,22741225,2146-10-09 21:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10014354,27487226,2148-07-04 12:00:00,Patient is alert and oriented x3. No acute distress noted.
+10014354,27487226,2148-07-04 14:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10014354,27487226,2148-07-08 08:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10014354,29600294,2148-08-17 09:00:00,Patient denies pain. Tolerating oral diet well.
+10014729,28889419,2125-03-01 06:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10015272,27993466,2137-06-14 04:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10015272,27993466,2137-06-14 14:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10015272,27993466,2137-06-14 14:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10015860,24698912,2192-05-12 22:00:00,Patient denies pain. Tolerating oral diet well.
+10015860,25085565,2186-09-15 18:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10015860,25085565,2186-09-15 23:00:00,Patient is alert and oriented x3. No acute distress noted.
+10015931,22130791,2177-03-26 20:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10015931,22130791,2177-03-28 15:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10015931,24420677,2176-12-23 02:00:00,Patient is alert and oriented x3. No acute distress noted.
+10015931,24420677,2176-12-23 09:00:00,Patient denies pain. Tolerating oral diet well.
+10015931,28157142,2176-11-19 21:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10015931,28157142,2176-11-20 02:00:00,Patient denies pain. Tolerating oral diet well.
+10015931,28157142,2176-11-20 17:00:00,Patient denies pain. Tolerating oral diet well.
+10016150,29374560,2142-05-10 18:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10016150,29374560,2142-05-10 20:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10016150,29374560,2142-05-10 20:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10016742,27568122,2178-07-23 12:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10016742,28506150,2178-07-14 02:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10016742,28506150,2178-07-14 04:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10016742,28506150,2178-07-16 01:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10016742,29281842,2178-07-08 05:00:00,Patient denies pain. Tolerating oral diet well.
+10016810,20973395,2185-06-16 08:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10016810,20973395,2185-06-17 11:00:00,Patient denies pain. Tolerating oral diet well.
+10017492,27417763,2116-06-28 10:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10017492,27417763,2116-06-30 17:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10017492,27417763,2116-07-01 07:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10018081,21027282,2133-12-26 10:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10018081,21027282,2133-12-27 14:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10018081,21027282,2133-12-31 04:00:00,Patient is alert and oriented x3. No acute distress noted.
+10018081,28861356,2134-08-05 21:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10018081,28861356,2134-08-06 08:00:00,Patient denies pain. Tolerating oral diet well.
+10018081,28861356,2134-08-07 15:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10018328,23786647,2154-04-25 21:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10018328,23786647,2154-04-25 21:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10018328,23786647,2154-05-02 10:00:00,Patient denies pain. Tolerating oral diet well.
+10018423,29366372,2167-05-05 21:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10018423,29366372,2167-05-06 02:00:00,Patient denies pain. Tolerating oral diet well.
+10018423,29366372,2167-05-06 09:00:00,Patient is alert and oriented x3. No acute distress noted.
+10018501,28479513,2141-07-31 02:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10018501,28479513,2141-07-31 16:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10018501,28479513,2141-08-01 17:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10018845,21101111,2184-10-08 20:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10018845,21101111,2184-10-08 20:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10018845,21101111,2184-10-09 03:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10019003,21457723,2155-07-12 23:00:00,Patient denies pain. Tolerating oral diet well.
+10019003,21457723,2155-07-13 05:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10019003,21457723,2155-07-13 10:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10019003,27525946,2153-04-14 00:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10019003,27525946,2153-04-15 10:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10019003,29279905,2153-03-30 02:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10019003,29279905,2153-03-30 19:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10019003,29279905,2153-03-31 08:00:00,Patient is alert and oriented x3. No acute distress noted.
+10019172,24997044,2118-11-18 08:00:00,Patient is alert and oriented x3. No acute distress noted.
+10019172,24997044,2118-11-18 11:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10019172,24997044,2118-11-19 15:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10019385,20297618,2180-02-21 19:00:00,Patient denies pain. Tolerating oral diet well.
+10019385,20297618,2180-02-21 21:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10019385,20297618,2180-02-22 06:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10019568,28710730,2120-01-31 16:00:00,Patient is alert and oriented x3. No acute distress noted.
+10019568,28710730,2120-01-31 17:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10019777,27738145,2187-02-14 15:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10019917,22585261,2182-01-08 02:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10019917,22585261,2182-01-08 02:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10019917,22585261,2182-01-08 13:00:00,Patient denies pain. Tolerating oral diet well.
+10020187,24104168,2169-01-16 04:00:00,Patient is alert and oriented x3. No acute distress noted.
+10020187,24104168,2169-01-18 05:00:00,Patient is alert and oriented x3. No acute distress noted.
+10020187,24104168,2169-01-18 17:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10020187,26842957,2170-02-24 21:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10020187,26842957,2170-02-25 13:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10020306,23052851,2135-01-22 03:00:00,Patient denies pain. Tolerating oral diet well.
+10020306,23052851,2135-01-22 15:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10020640,27984218,2153-02-13 16:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10020640,27984218,2153-02-13 22:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10020640,27984218,2153-02-15 09:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10020740,23831430,2150-03-12 00:00:00,Patient denies pain. Tolerating oral diet well.
+10020740,25826145,2150-06-03 23:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10020740,25826145,2150-06-04 01:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10020786,23488445,2189-06-10 21:00:00,Patient denies pain. Tolerating oral diet well.
+10020944,29974575,2131-03-05 15:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10021118,24490144,2161-11-20 06:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10021118,24490144,2161-11-20 12:00:00,Patient is alert and oriented x3. No acute distress noted.
+10021312,28829452,2113-09-14 13:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10021312,28829452,2113-09-15 07:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10021487,27660781,2117-03-08 04:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10021487,27660781,2117-03-08 06:00:00,Patient is alert and oriented x3. No acute distress noted.
+10021487,28998349,2116-12-05 15:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10021666,22756440,2172-03-13 02:00:00,Patient denies pain. Tolerating oral diet well.
+10021666,22756440,2172-03-13 03:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10021666,22756440,2172-03-13 04:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10021938,23112364,2181-10-13 13:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10021938,23112364,2181-10-14 04:00:00,Patient is alert and oriented x3. No acute distress noted.
+10021938,27154822,2181-10-26 07:00:00,Patient is alert and oriented x3. No acute distress noted.
+10021938,27154822,2181-10-26 15:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10022017,22342963,2189-09-10 17:00:00,Patient is alert and oriented x3. No acute distress noted.
+10022017,22342963,2189-09-11 10:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10022017,22342963,2189-09-13 06:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10022041,28909879,2187-05-20 15:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10022281,29642388,2125-06-17 10:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10022880,27708593,2177-03-15 13:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10022880,27708593,2177-03-15 15:00:00,Patient denies pain. Tolerating oral diet well.
+10023117,21133938,2175-03-24 05:00:00,Patient denies pain. Tolerating oral diet well.
+10023117,21133938,2175-03-27 08:00:00,Patient is alert and oriented x3. No acute distress noted.
+10023117,21607814,2175-07-14 09:00:00,Patient is alert and oriented x3. No acute distress noted.
+10023117,28872262,2171-11-15 09:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10023117,28872262,2171-11-17 14:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10023117,28872262,2171-11-17 16:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10023239,21759936,2140-10-03 12:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10023239,21759936,2140-10-04 14:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10023239,21759936,2140-10-04 22:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10023239,29295881,2137-06-21 07:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10023771,20044587,2113-08-27 13:00:00,Patient denies pain. Tolerating oral diet well.
+10024043,24717014,2117-04-12 02:00:00,Patient denies pain. Tolerating oral diet well.
+10024043,24717014,2117-04-13 00:00:00,Patient denies pain. Tolerating oral diet well.
+10024043,24717014,2117-04-14 01:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10025463,24470193,2137-10-09 06:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10025463,24470193,2137-10-09 13:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10025612,23403708,2125-09-25 23:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10026255,22059910,2201-07-08 12:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10026255,22059910,2201-07-09 20:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10026255,22059910,2201-07-10 05:00:00,Patient denies pain. Tolerating oral diet well.
+10026354,24547356,2119-10-26 19:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10026354,24547356,2119-10-27 04:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10026406,25260176,2129-01-05 10:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10026406,25260176,2129-01-05 12:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10027445,26275841,2142-08-01 15:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10027445,26275841,2142-08-02 02:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10027445,26275841,2142-08-03 07:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10027445,29163082,2142-08-31 00:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10027602,21477991,2201-12-13 09:00:00,Patient is alert and oriented x3. No acute distress noted.
+10027602,28166872,2201-10-30 23:00:00,Patient is alert and oriented x3. No acute distress noted.
+10027602,28166872,2201-11-07 00:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10027602,28166872,2201-11-10 08:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10029291,22205327,2123-02-23 02:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10029291,22205327,2123-02-26 21:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10029291,22205327,2123-03-03 15:00:00,Patient denies pain. Tolerating oral diet well.
+10029484,20764029,2160-11-08 08:00:00,Patient denies pain. Tolerating oral diet well.
+10029484,20764029,2160-11-08 11:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10029484,20764029,2160-11-08 13:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10031404,21606243,2113-08-04 23:00:00,Patient denies pain. Tolerating oral diet well.
+10031404,21606243,2113-08-05 21:00:00,Patient denies pain. Tolerating oral diet well.
+10031757,28477280,2137-10-13 08:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10032725,20611640,2143-03-22 23:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10035185,22580999,2120-05-14 13:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10035185,22580999,2120-05-14 15:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10035631,29276678,2116-03-03 02:00:00,Patient denies pain. Tolerating oral diet well.
+10036156,28019404,2157-07-01 10:00:00,Patient is alert and oriented x3. No acute distress noted.
+10036156,28019404,2157-07-01 10:00:00,Patient is alert and oriented x3. No acute distress noted.
+10037861,24540843,2117-03-19 05:00:00,Patient is alert and oriented x3. No acute distress noted.
+10037861,24540843,2117-03-21 00:00:00,Patient denies pain. Tolerating oral diet well.
+10037928,22490490,2177-07-14 23:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10037928,22490490,2177-07-15 08:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10037928,22490490,2177-07-15 12:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10037928,24656677,2178-12-21 15:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10037928,24656677,2178-12-21 18:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10037975,27617929,2185-01-18 15:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10037975,27617929,2185-01-18 22:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10037975,27617929,2185-01-19 16:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10038081,20755971,2115-10-12 21:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10038933,25129047,2148-09-14 05:00:00,Patient is alert and oriented x3. No acute distress noted.
+10038933,25129047,2148-09-15 03:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10038992,24745425,2187-07-30 11:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10038999,27189241,2131-05-25 08:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10038999,27189241,2131-05-27 14:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10038999,27189241,2131-05-31 04:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10039708,23819016,2140-06-18 05:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10039708,23819016,2140-06-18 21:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10039708,24928679,2143-09-19 21:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10039708,24928679,2143-09-20 09:00:00,Patient complains of mild shortness of breath (SOB). O2 saturation stable on room air.
+10039708,28258130,2140-01-23 21:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10039708,28258130,2140-01-27 21:00:00,Patient resting comfortably. IV fluids running at 75cc/hr.
+10039708,28258130,2140-02-05 17:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10039831,26924951,2115-12-30 04:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10039831,26924951,2115-12-30 12:00:00,Lab results reviewed. Lactate slightly elevated at 2.1. Will continue to monitor.
+10039997,24294180,2134-09-07 20:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
+10040025,27996267,2148-01-27 12:00:00,"Radiology report: Clear lungs, no acute cardiopulmonary process."
+10040025,27996267,2148-01-28 09:00:00,CRITICAL: Suspected sepsis protocol initiated. Patient hypotensive and tachycardic. Blood cultures drawn.
+10040025,27996267,2148-01-28 12:00:00,NURSE NOTE: Patient appears newly confused. Blood pressure trending downward. Notifying attending physician.
