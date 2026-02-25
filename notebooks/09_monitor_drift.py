@@ -14,7 +14,7 @@ df_baseline = pd.read_parquet(os.path.join(GOLD_DIR, "gold_vitals_hourly.parquet
 baseline_hr = df_baseline['Heart Rate'].dropna().values
 
 print("Simulating a new patient data stream (e.g., a novel pathogen outbreak)...")
-# Let's artificially create data drift. 
+# Let's artificially create data drift
 # We simulate a scenario where incoming patients have resting heart rates 15 BPM higher than normal.
 new_patient_hr = baseline_hr + np.random.normal(loc=15.0, scale=5.0, size=len(baseline_hr))
 
